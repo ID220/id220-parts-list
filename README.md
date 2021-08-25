@@ -12,8 +12,8 @@ Parts list for class ID220 @ KAIST
 | [Photoresistor](https://www.devicemart.co.kr/goods/view?no=11364)                              | 1        | 198    |
 | [Servo (SG-90)](https://www.devicemart.co.kr/goods/view?no=1128421)                            | 1        | 1,650  |
 | [Shift register 74HC595](https://www.devicemart.co.kr/goods/view?no=3566)                      | 1        | 440    |
-| [Diode 1N4004](https://www.devicemart.co.kr/goods/view?no=23)                                  | 1        | 132    |
-| [Voltage regulator MC7805CTG](https://www.devicemart.co.kr/goods/view?no=1322887)              | 2        | 352    |
+| [Diode 1N4004](https://www.devicemart.co.kr/goods/view?no=23)                                  | 2        | 132    |
+| [Voltage regulator MC7805CTG](https://www.devicemart.co.kr/goods/view?no=1322887)              | 1        | 352    |
 | [NE555P](https://www.devicemart.co.kr/goods/view?no=1058745)                                   | 1        | 275    |
 | [Encoder EC12B24S2033ZZZ](https://www.devicemart.co.kr/goods/view?)                            | 1        | 2,376  |
 | [Bluetooh module HC-06](https://www.devicemart.co.kr/goods/view?no=1376882)                    | 1        | 6,600  |
