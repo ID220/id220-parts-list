@@ -53,3 +53,7 @@ Parts list for class ID220 @ KAIST
 - [Sparkfun Capacitor Kit](https://www.devicemart.co.kr/goods/view?no=1278042): 11,000
 - [9V battery](https://www.devicemart.co.kr/goods/view?no=2832): 1,320
 - [9V battery connector](https://www.devicemart.co.kr/goods/view?no=3117): 253
+
+## Optional 
+
+- [Wire stripper](https://www.devicemart.co.kr/goods/view?no=10991293): 4,719
