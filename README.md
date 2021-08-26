@@ -20,7 +20,7 @@ Parts list for class ID220 @ KAIST
 | [Relay IRE-2C-D05S](https://www.devicemart.co.kr/goods/view?no=9929)                           | 1        | 1,210  |
 | [Accelerometer MPU-6050](https://www.devicemart.co.kr/goods/view?no=1247052)                   | 1        | 3,850  |
 
-## In the Kit
+## Inside the Inventor's Kit
 
 - breadboard
 - 4 push switches
@@ -47,7 +47,7 @@ Parts list for class ID220 @ KAIST
 - mixed LEDs
 - mixed jumper wires (male-male, female-female)
 
-## Parts you have to purchase
+## Parts that you have to purchase
 
 - [Resistor Kit](https://www.devicemart.co.kr/goods/view?no=12138735): 7,260
 - [Sparkfun Capacitor Kit](https://www.devicemart.co.kr/goods/view?no=1278042): 11,000
