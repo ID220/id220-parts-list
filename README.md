@@ -3,7 +3,7 @@ Parts list for class ID220 @ KAIST
 
 ## Parts in the kit
 
-| Part name                                                                                      | Quantity | Price  |
+| Part name                                                                                      | Quantity | Unit Price  |
 | ---------------------------------------------------------------------------------------------- | -------- | ------ |
 | [micro:bit kit with batteries andadapter ](https://www.devicemart.co.kr/goods/view?no=1386144) | 1        | 19,800 |
 | BlinkBoard + 2 USB cables                                                                      | 1        | 50,000 |
@@ -11,7 +11,7 @@ Parts list for class ID220 @ KAIST
 | [Multimeter UT131B](https://www.devicemart.co.kr/goods/view?no=1383581)                        | 1        | 18,000 |
 | [Photoresistor](https://www.devicemart.co.kr/goods/view?no=11364)                              | 1        | 198    |
 | [Servo (SG-90)](https://www.devicemart.co.kr/goods/view?no=1128421)                            | 1        | 1,650  |
-| [Shift register 74HC595](https://www.devicemart.co.kr/goods/view?no=3566)                      | 1        | 440    |
+| [Shift register 74HC595](https://www.devicemart.co.kr/goods/view?no=3566)                      | 2        | 440    |
 | [Diode 1N4004](https://www.devicemart.co.kr/goods/view?no=23)                                  | 2        | 132    |
 | [Voltage regulator MC7805CTG](https://www.devicemart.co.kr/goods/view?no=1322887)              | 1        | 352    |
 | [NE555P](https://www.devicemart.co.kr/goods/view?no=1058745)                                   | 1        | 275    |
