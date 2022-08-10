@@ -21,32 +21,24 @@ Parts list for class ID220 @ KAIST
 | [Relay IRE-2C-D05S](https://www.devicemart.co.kr/goods/view?no=9929)              | 1        | 1,210      |
 | [Accelerometer MPU-6050](https://www.devicemart.co.kr/goods/view?no=1247052)      | 1        | 3,850      |
 
-## Inside the Inventor's Kit
+## Parts included in the Inventor's Kit
 
-- breadboard
+- 1 full-size breadboard
 - 4 push switches
-- 1 dc motor with fan blade
+- 1 DC motor with fan blade
 - 1 transistor
 - 1 RGB LED
-- 2 Red LED
-- 2 Green LED
-- 2 Orange LED
-- 2 Yellow LED
-- 5 47Ω resistor
-- 5 2.2KΩ resistor
-- 5 10KΩ resistor
 - 1 Photo-transistor
-- 1 Terminal connector
 - 1 Piezo buzzer
 - 1 Capacitor 470u
 - 1 100kΩ Potentiometer
-- battery pack
-- 1 manual booklet
 
-## Additional parts given (free of usage)
+## Additional mixed parts given
 
 - mixed LEDs
 - mixed jumper wires (male-male, female-female)
+- mixed resistors
+- 1 small half-size breadboard
 
 ## Parts that you have to purchase
 
