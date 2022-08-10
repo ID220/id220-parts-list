@@ -38,7 +38,7 @@ Parts list for class ID220 @ KAIST
 - mixed LEDs
 - mixed jumper wires (male-male, female-female)
 - mixed resistors
-- 1 small half-size breadboard
+- 1 half-size breadboard
 
 ## Parts that you have to purchase
 
