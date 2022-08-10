@@ -50,3 +50,8 @@ Parts list for class ID220 @ KAIST
 ## Optional
 
 - [Wire stripper](https://www.devicemart.co.kr/goods/view?no=10991293): 4,719
+
+## Notes
+
+- All prices are indicated in Korean Won KRW
+- Prices might change due to inflation / out-of-stock
